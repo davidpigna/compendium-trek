@@ -21,7 +21,7 @@
         "manifest": "https://raw.githubusercontent.com/mkscho63/sta/master/src/system.json",
         "compatibility": {
           "minimum": "1.1.9",
-          "verified": "1.1.11"
+          "verified": "1.2.3"
         },
         "type": "system"
       }
